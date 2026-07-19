@@ -1,6 +1,6 @@
 cask "hang4r" do
-  version "1.0.14"
-  sha256 "0726f67b7357c6f1c2aa33db849b88df1dfe6ce902b713c5abcb80665cbe818f"
+  version "1.0.15"
+  sha256 "34462c0c11241d4de07b6d4e91ad43f8cd9227c701e52b3f96971e8d0556d77d"
 
   url "https://github.com/Angel-Mu/hang4r-releases/releases/download/v#{version}/hang4r-#{version}.dmg"
   name "hang4r"
